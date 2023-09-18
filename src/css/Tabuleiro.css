@@ -1,0 +1,35 @@
+.QdPreto .vermelho {
+    background-color: red;
+    border-radius: 50px;
+    height: 95px;
+    width: 95px;
+    padding: 5px;
+    margin: 2.5px;
+}
+.QdPreto .cinza {
+  background-color: grey;
+  border-radius: 50px;
+  height: 95px;
+  width: 95px;
+  padding: 5px;
+  margin: 2.5px;
+}
+
+.QdBranco {
+  background-color: white;
+  height: 100px;
+  width: 100px;
+  float: left;
+}
+
+.QdPreto {
+  background-color: black;
+  height: 100px;
+  width: 100px;
+  float: left;
+}
+
+.bloquear{
+  height: 100px;
+  width: 100px;
+}
